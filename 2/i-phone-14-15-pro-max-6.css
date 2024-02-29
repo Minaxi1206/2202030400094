@@ -1,0 +1,38 @@
+.iphone-14-15-pro-max-6-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 430px;
+  height: 932px;
+  object-fit: cover;
+}
+.iphone-14-15-pro-max-6-item {
+  position: absolute;
+  top: 879px;
+  left: 273px;
+  background-color: var(--color-gold);
+  border: 1px solid var(--color-gold);
+  box-sizing: border-box;
+  width: 133px;
+  height: 50px;
+}
+.buy-now1 {
+  position: absolute;
+  top: 886px;
+  left: 288px;
+  display: inline-block;
+  width: 112px;
+  height: 41px;
+  cursor: pointer;
+}
+.iphone-14-15-pro-max-6 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 932px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-black);
+  font-family: var(--font-kanit);
+}
